@@ -1,0 +1,12 @@
+# Patient-level data and local analysis outputs
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.joblib
+*.parquet
+*.feather
+outputs/
+revision_outputs*/
+revision_conventional_comparison_with_demo/
+__pycache__/
